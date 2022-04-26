@@ -5,4 +5,4 @@ Mothora is a living breathing world that intends to push the boundaries of Play 
 
 You can read more about the project in our [Notion](https://mothora.notion.site/Mothora-f99f6f8ce224458380b4265dff3b15be)
 
-# Visit us at [mothora.xyz](mothora.xyz)
+# Visit us at [mothora.xyz](https://mothora.xyz)
