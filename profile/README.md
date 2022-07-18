@@ -1,6 +1,6 @@
 ## Hi there 👋
 
 
-Mothora is a living world that intends to push the boundaries of Play & Earn by fostering high degrees of coordination between players in a RvR Online RPG created in Unreal Engine 5.
+Mothora is a web3 game of persistent large-scale incentivised Faction vs Faction vs Faction (iFvFvF) battles. In the traditional gaming sense it can be regarded as an Online Role-Playing Game (RPG) with strong Player vs Player (PvP) emphasis and a real player-owned economy surrounding it.
 
-Visit us at [mothora.xyz](https://mothora.xyz)
+Learn more by visiting us at [mothora.xyz](https://mothora.xyz)
