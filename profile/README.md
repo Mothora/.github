@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 
-Mothora is a web3 game of persistent large-scale incentivised Faction vs Faction vs Faction (iFvFvF) battles. In the traditional gaming sense it can be regarded as an Online Role-Playing Game (RPG) with strong Player vs Player (PvP) emphasis and a real player-owned economy surrounding it.
+Join the fight for dominance in Mothora, an epic Grand Strategy First-Person Shooter Web3 game set in a dystopian sci-fi future. In Mothora, players can join Decentralized Autonomous Organizations (DAOs) to govern themselves and the outcome of the game.
+
 
 Learn more by visiting us at [mothora.xyz](https://mothora.xyz)
